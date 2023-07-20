@@ -26,9 +26,8 @@ PictoMotion AI is an innovative platform that utilizes the power of artificial i
 4. **Video Animation:** The storyboard frames and voice narration are combined to create an animated video.
 
 ## PictoMotion AI
-
-![Uploading Screenshot 2023-07-20 230141.png…]()
-![Screenshot 2023-07-20 230155](https://github.com/RuPaul23/PictoMotionAI/assets/105512611/f01458c2-3939-4458-b01f-21ab1a75d8e3)
+![HOME(PictoMotionAI)](https://github.com/RuPaul23/PictoMotionAI/assets/105512611/b0949988-cc0d-4705-83d2-61948f8e2e7a)
+![HOME2(PictoMotionAI)](https://github.com/RuPaul23/PictoMotionAI/assets/105512611/95bacd68-ed4b-41f0-93df-aa0e370a6563)
 
 ## Installation
 
