@@ -26,6 +26,10 @@ PictoMotion AI is an innovative platform that utilizes the power of artificial i
 4. **Video Animation:** The storyboard frames and voice narration are combined to create an animated video.
 
 ## PictoMotion AI
+
+![Uploading Screenshot 2023-07-20 230141.png…]()
+![Screenshot 2023-07-20 230155](https://github.com/RuPaul23/PictoMotionAI/assets/105512611/f01458c2-3939-4458-b01f-21ab1a75d8e3)
+
 ## Installation
 
 To run PictoMotion AI on your local machine, follow these steps:
